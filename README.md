@@ -1,4 +1,5 @@
 # ScriptR
+(This is a refactored version of my previous application: https://github.com/Cygnx/Aant-bot)
 Simple Script Engine for the popular video game "Maple Story"
 http://maplestory.nexon.net/
 
